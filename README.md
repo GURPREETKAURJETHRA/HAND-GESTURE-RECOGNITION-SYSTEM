@@ -20,6 +20,8 @@ We used a pre-trained Convolutional Neural Network (CNN) model to recognize hand
 - The data we have been provided with to train our model consists of images / frames taken in a sequence (videos that are already broken down into images) for various individuals showing the above mentioned hand gestures.  
 - The data is labelled with the different classes (gestures) that need to be identified.
 
+Dataset Download Link: https://drive.google.com/uc?id=1ehyrYBQ5rbQQe6yL4XbLWe3FMvuVUGiL
+
 ## Approach
 To do this, we will be using `Deep Learning`. Specifically, we will be trying two approaches:
 - Approach 1: 3D CNN Model  
