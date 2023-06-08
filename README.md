@@ -54,3 +54,8 @@ To do this, we will be using `Deep Learning`. Specifically, we will be trying tw
 - On the whole validation data, 92% accuracy is observed.
 - The model size is around 40MB which is small enough for Smart TVs.
 - The model has total `3,392,821` parameters, out of which `3,370,693` are trainable.
+
+### Acknowledgement:
+This Project Assignment was part of Curriculum during **EPGP-DataScience AI-ML (Deep Learning Spec) from IIIT-B.**
+
+***@All Rights Reserved*** [**Gurpreet Kaur Jethra**](https://github.com/GURPREETKAURJETHRA)
